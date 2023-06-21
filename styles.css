@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+  color: #f8eee1;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+body {
+    background-color: #191A21;
+    height: 100vh;
+}
+
+.linha-hamburger {
+    background-color: #f8eee1;
+    height: 2px;
+    width: 35px;
+    margin: 8px;
+}
+
+.menu-hamburger {
+    margin: 8px 0 0 0;   
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+main {
+    margin-top: 24px;
+    padding: 16px;
+}
